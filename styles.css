@@ -1,0 +1,52 @@
+/* styles.css */
+
+/* Estilo general para el cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5; /* Color de fondo claro */
+    color: #3e2723; /* Texto en marrón oscuro */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo para el encabezado */
+  h1 {
+    color: #4e342e; /* Marrón más claro para el título */
+    text-align: center;
+    padding: 20px;
+    background-color: #d7ccc8; /* Fondo del título en marrón muy claro */
+    margin: 0;
+  }
+  
+  /* Estilo para el párrafo */
+  p {
+    color: #5d4037; /* Color del texto en marrón medio */
+    margin: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo para la lista */
+  ul {
+    list-style-type: none; /* Quitar viñetas */
+    padding: 0;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  /* Estilo para los elementos de la lista */
+  li {
+    background-color: #a1887f; /* Fondo de cada elemento en un tono de marrón */
+    color: #3e2723; /* Color del texto en marrón oscuro */
+    border: 1px solid #6d4c41; /* Borde en marrón más oscuro */
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px; /* Bordes redondeados */
+  }
+  
+  /* Estilo para el contenedor de la lista */
+  #list {
+    background-color: #fbe9e7; /* Fondo del contenedor en marrón muy claro */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
